@@ -3,19 +3,13 @@ templateKey: index-page
 title: Enabling just in time delivery for your business
 image: /img/home-jumbotron.jpg
 heading: IoT sensors enable just in time delivery
-subheading: An IoT sensing companyy
+subheading: An IoT sensing company
 mainpitch:
-  title: Why Kaldi
+  title: Why TapWorks
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    TapWorks enables your subscription service to be on demand, whether it's a cold brew drop off, a package pick-up, or something else - we have the sensor that fits your needs to make sure that you always make your deliveries, just in time.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  TapWorks is dedicated to providing reliable, convenient analytics to its customers.
 intro:
   blurbs:
     - image: /img/coffee.png
