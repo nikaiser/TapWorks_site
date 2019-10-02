@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Enabling just in time delivery for your business
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: IoT sensors enable just in time delivery
+subheading: An IoT sensing companyy
 mainpitch:
   title: Why Kaldi
   description: >
