@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Enabling just in time delivery for your business
+title: TapWorks, an IoT solutions company
 image: /img/home-jumbotron.jpg
 heading: IoT sensors enable just in time delivery
 subheading: An IoT sensing company
